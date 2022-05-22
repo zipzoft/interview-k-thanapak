@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6285174fce671f9e7e8123b1"
+  },
+  "productName": "Spiderman",
+  "productDescript": "Sony Interactive Entertainment, Insomniac Games, and Marvel have teamed up to create an authentic Spider-Man adventure. This isn’t the Spider-Man you’ve met or ever seen before. This is an experienced Peter Parker who’s more masterful at fighting big crime in Marvel's New York. At the same time, he’s struggling to balance his chaotic personal life and career while the fate of millions of New Yorkers rest upon his shoulders.",
+  "productPrice": 950,
+  "productImg": "spiderman.webp"
+},{
+  "_id": {
+    "$oid": "6289dda481741e7a39e2783e"
+  },
+  "productName": "Horizon forbidden west",
+  "productDescript": "Horizon Forbidden West is a 2022 action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment. A sequel to 2017's Horizon Zero Dawn, the game is set in a post-apocalyptic version of the Western United States recovering from the aftermath of an extinction event caused by a rogue robot swarm. The player can explore the open world and complete quests using ranged and melee against hostile machine creatures.",
+  "productPrice": 1250,
+  "productImg": "horizon.webp"
+}]
